@@ -2,7 +2,7 @@ let numSecreto = 0;
 let intentos = 0;
 let numerosSecretos = [];
 let cambiar = false;
-let numeroMax = 2;
+let numeroMax = 5;
 
 
 function asignarTextoElem(elemento, texto){
